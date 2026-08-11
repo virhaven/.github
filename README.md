@@ -1,4 +1,4 @@
-# 🌌 virhaven
+# 🌌 VirHaven
 
 > **Virtual Creator's Haven** — Crafting the tools that power your stream.
 
